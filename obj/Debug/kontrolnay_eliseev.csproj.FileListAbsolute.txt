@@ -1,0 +1,7 @@
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\bin\Debug\kontrolnay_eliseev.exe.config
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\bin\Debug\kontrolnay_eliseev.exe
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\bin\Debug\kontrolnay_eliseev.pdb
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\obj\Debug\kontrolnay_eliseev.csprojResolveAssemblyReference.cache
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\obj\Debug\kontrolnay_eliseev.csproj.CoreCompileInputs.cache
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\obj\Debug\kontrolnay_eliseev.exe
+D:\!Колледж!\3 курс\практика\kontrolnay_eliseev\kontrolnay_eliseev\obj\Debug\kontrolnay_eliseev.pdb
